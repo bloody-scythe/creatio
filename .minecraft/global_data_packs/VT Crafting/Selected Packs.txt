@@ -1,0 +1,17 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.16
+Packs:
+	back to blocks
+	dropper to dispenser
+	sandstone dyeing
+	universal dyeing
+	straight to shapeless
+	blackstone cobblestone
+	powder to glass
+	more stairs
+	craftable blackstone
+	craftable name tags
+	craftable coral blocks 3x3
+	craftable horse armor
+	craftable gravel
+	unpackable ice
