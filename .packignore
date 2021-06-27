@@ -1,13 +1,15 @@
-.minecraft/saves
+.git
 .minecraft/.mixin.out
 .minecraft/XaeroWaypoints
 .minecraft/XaeroWaypoints_BACKUP032021
 .minecraft/XaeroWorldMap
+.minecraft/config/jei/bookmarks.ini
 .minecraft/coremods
 .minecraft/crash-reports
 .minecraft/defaultconfigs
 .minecraft/logs
 .minecraft/resourcepacks
+.minecraft/saves
 .minecraft/schematics
 .minecraft/screenshots
 .minecraft/server-resource-packs
@@ -15,3 +17,4 @@
 .minecraft/texturepacks
 .minecraft/usercache.json
 .minecraft/usernamecache.json
+README.md
