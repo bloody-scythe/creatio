@@ -1,5 +1,5 @@
 #CONFIG ONLY OPTIONS
-ignoreUpdate:294
+ignoreUpdate:295
 updateNotification:true
 settingsButton:false
 allowWrongWorldTeleportation:false
@@ -86,7 +86,7 @@ tamedMobNames:3
 showLightLevel:0
 renderLayerIndex:1
 crossDimensionalTp:true
-showTime:0
+showTime:1
 biomeColorsVanillaMode:false
 lookingAtAngle:10
 lookingAtAngleVertical:180
@@ -105,7 +105,7 @@ playerArrowOpacity:100
 ignoreHeightmaps:false
 waypointsBottom:true
 minimapShape:0
-lightOverlayType:1
+lightOverlayType:-1
 lightOverlayMaxLight:7
 lightOverlayMinLight:0
 lightOverlayColor:13

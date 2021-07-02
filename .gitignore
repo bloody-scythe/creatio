@@ -16,3 +16,5 @@
 .minecraft/usercache.json
 .minecraft/usernamecache.json
 .minecraft/config/jei/bookmarks.ini
+.minecraft/backups
+.minecraft/mantle_data_dump

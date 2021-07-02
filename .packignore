@@ -17,4 +17,6 @@
 .minecraft/texturepacks
 .minecraft/usercache.json
 .minecraft/usernamecache.json
+.minecraft/backups
 README.md
+.minecraft/mantle_data_dump
