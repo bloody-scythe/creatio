@@ -100,7 +100,7 @@ compassLocation:1
 compassScale:1
 caveMapsDepth:30
 hideWaypointCoordinates:false
-renderAllSets:false
+renderAllSets:true
 playerArrowOpacity:100
 waypointsBottom:true
 minimapShape:0
